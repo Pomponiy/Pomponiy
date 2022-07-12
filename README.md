@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Pomponiy </n>
+- 👋 Hi, I’m @Pomponiy <br>
 Programming and a little bit of ML just for hobby.
 
